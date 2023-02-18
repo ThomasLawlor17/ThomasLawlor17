@@ -9,8 +9,8 @@ I'm from Toronto. I enjoy good food, the outdoors, fitness and coding.
 
 ### Some of my Favourite Repos
 * <a href="https://github.com/ThomasLawlor17/mymoji">Mymoji</a> - A custom emoji maker
-* <a href="https://github.com/FSA-2009-Revenge-of-the-Shoppers/Grace-Shopper">YoDaddy</a> - E-Commerce with tons of Baby Yoda
-* <a href="https://github.com/KungoJung/expense-tracker-electron">These Expenses</a> - Desktop Expense Tracker
+* <a href="https://github.com/ThomasLawlor17/fridgy">Fridgy</a> - Fridge sharing helper
+* <a href="https://github.com/ThomasLawlor17/rock-paper-scissors-lizard-spock">Rock Paper Scissors Lizard Spock</a> - Play the 'not so classic' game against the computer
 
 <!--
 
