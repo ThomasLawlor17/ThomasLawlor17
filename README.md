@@ -10,6 +10,7 @@ I'm from Toronto. I enjoy good food, the outdoors, fitness and coding.
 ### Some of my Favourite Repos
 * <a href="https://github.com/ThomasLawlor17/mymoji">Mymoji</a> - A custom emoji maker
 * <a href="https://github.com/ThomasLawlor17/fridgy">Fridgy</a> - Fridge sharing helper
+* <a href="https://github.com/ThomasLawlor17/audiophile">audiophile</a> - An example e-commerce website
 * <a href="https://github.com/ThomasLawlor17/rock-paper-scissors-lizard-spock">Rock Paper Scissors Lizard Spock</a> - Play the 'not so classic' game against the computer
 
 <!--
